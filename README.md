@@ -1,4 +1,4 @@
-# Título do Projeto
+# Indústria, Inovação e Infraestrutura
 
 
 ![Capa do Projeto](https://sistemadeensinoequipe.com.br/wp-content/uploads/2019/07/tec2.jpeg)
