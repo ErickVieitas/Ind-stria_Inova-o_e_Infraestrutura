@@ -5,7 +5,8 @@
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+Desenvolver infraestrutura de qualidade, confiável, sustentável e resiliente, incluindo infraestrutura regional e transfronteiriça, para apoiar o desenvolvimento econômico e o bem-estar humano. Mais da metade da população mundial vive em cidades onde o transporte massas e energias renováveis são cada vez mais importantes. Diante disso, para garantirmos que um desenvolvimento sustentável com a geração de empregos e uma eficiência energética é necessária inovação nas industrias globais para que as massas emitidas por elas não possam ser prejudiciais ao ambiente e também a utilização de energias renováveis, assim, com a ajuda de um aplicativo que possa fazer a leitura do que foi coletado por cientistas da massa expelida e dizer o que deve ser feito a diante para que ocorra essa redução universal.
+
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
