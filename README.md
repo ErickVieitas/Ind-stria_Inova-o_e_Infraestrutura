@@ -62,13 +62,6 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
   </tr>
 </table>
 
-
-- Augusto Fabio Lage Assis (https://github.com/aaugvsto)
-- Erick Lopes Vieitas Marques (https://github.com/ErickVieitas)
-- Gabriel Silva Galdino (https://github.com/GabrielSGaldino)
-- João Reberth Santana Rodrigues (https://github.com/Reberthjr)
-- Thiago Luis de Assis Silva (https://github.com/ThiagoLuiis)
-
 # Licença
 
 Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
