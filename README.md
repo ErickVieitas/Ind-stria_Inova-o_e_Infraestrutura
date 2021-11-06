@@ -5,28 +5,27 @@
 
 # Sobre o Projeto
 
-Desenvolver infraestrutura de qualidade, confiável, sustentável e resiliente, incluindo infraestrutura regional e transfronteiriça, para apoiar o desenvolvimento econômico e o bem-estar humano. Mais da metade da população mundial vive em cidades onde o transporte massas e energias renováveis são cada vez mais importantes. Diante disso, para garantirmos que um desenvolvimento sustentável com a geração de empregos e uma eficiência energética é necessária inovação nas industrias globais para que as massas emitidas por elas não possam ser prejudiciais ao ambiente e também a utilização de energias renováveis, assim, com a ajuda de um aplicativo que possa fazer a leitura do que foi coletado por cientistas da massa expelida e dizer o que deve ser feito a diante para que ocorra essa redução universal.
+Diante do objetivo que é garantir um desenvolvimento sustentável que gere empregos, investimento em pesquisas científicas e na inovação para que possa a ver um equilíbrio econômico e sustentável dentro das indústrias. Nosso projeto pretende desenvolver um software de qualidade, confiável e resiliente para que diversos órgãos possam compartilhar ideais, artigos desenvolvidos, projetos implantados e pesquisas realizadas focando o desenvolvimento sustentável entre as indústrias, tanto econômico quanto no bem-estar humano. Por sua vez, cada uma contribuindo com suas inovações e agregando mais conhecimento com as outras.
+
+# Slide do Projeto
+
+
+
+<h4 align="center"> 
+	🚧  Em desenvolvimento . . .
+</h4>
 
 # Índice/Sumário
 
 * [Sobre](#sobre-o-projeto)
+* [Slide do Projeto](#slide-do-Projeto)
 * [Sumário](#índice/sumário)
-* [Requisitos Funcionais](#requisitos-funcionais)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
 * [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
 
-
-# Requisitos Funcionais 
-
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
 
 # Tecnologias Usadas
 
@@ -49,13 +48,6 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
     <td align="center"><a href="https://github.com/Reberthjr"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/89999728?v=4" width="100px;" alt=""/><br /><sub><b>João Reberth</b></sub></a><br /><a href="https://github.com/Reberthjr" title="João Reberth">🚀</a></td>
     <td align="center"><a href="https://github.com/ThiagoLuiis"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/90219219?v=4" width="100px;" alt=""/><br /><sub><b>Thiago Luis</b></sub></a><br /><a href="https://github.com/ThiagoLuiis" title="Thiago Luis">🚀</a></td>
   </tr>
-  <tr>
-   <td align="center"><a href="https://github.com/aaugvsto"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/65744013?v=4" width="100px;" alt=""/><br /><sub><b>Augusto Fabio</b></sub></a><br /><a href="https://github.com/aaugvsto" title="Augusto Fabio">👨‍🚀</a></td>
-    <td align="center"><a href="https://github.com/ErickVieitas"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/90138559?v=4" width="100px;" alt=""/><br /><sub><b>Erick Lopes</b></sub></a><br /><a href="https://github.com/ErickVieitas" title="Erick Lopes">👨‍🚀</a></td>
-    <td align="center"><a href="https://github.com/GabrielSGaldino"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/90053550?v=4" width="100px;" alt=""/><br /><sub><b>Gabriel Galdino</b></sub></a><br /><a href="https://github.com/GabrielSGaldino" title="Gabriel Galdino">👨‍🚀</a></td>
-    <td align="center"><a href="https://github.com/Reberthjr"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/89999728?v=4" width="100px;" alt=""/><br /><sub><b>João Reberth</b></sub></a><br /><a href="https://github.com/Reberthjr" title="João Reberth">🚀</a></td>
-    <td align="center"><a href="https://github.com/ThiagoLuiis"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/90219219?v=4" width="100px;" alt=""/><br /><sub><b>Thiago Luis</b></sub></a><br /><a href="https://github.com/ThiagoLuiis" title="Thiago Luis">🚀</a></td>
-  </tr>
 </table>
 
 # Licença
@@ -64,4 +56,9 @@ Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.m
 
 # Agradecimentos
 
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+Todos os autores desse projeto agradecem ao professor Diego Augusto e aos alunos que contribuíram com ideais e ajuda durante o desenvolvimento.
+
+![image](https://user-images.githubusercontent.com/90138559/140611472-600142de-b93e-4884-9b65-5d26bf08373b.png)
+![image](https://user-images.githubusercontent.com/90138559/140611456-91555983-2485-4cf8-9e37-7d92ad5ac255.png)
+
+
