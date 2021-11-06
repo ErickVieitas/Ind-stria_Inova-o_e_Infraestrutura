@@ -10,10 +10,8 @@ Diante do objetivo que é garantir um desenvolvimento sustentável que gere empr
 # Slide do Projeto
 
 
+[Projeto_vida_e_carreira_slide.pptx](https://github.com/ErickVieitas/Ind-stria_Inova-o_e_Infraestrutura/files/7490538/Projeto_vida_e_carreira_slide.pptx)
 
-<h4 align="center"> 
-	🚧  Em desenvolvimento . . .
-</h4>
 
 # Índice/Sumário
 
